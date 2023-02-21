@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f92d558-4a3c-4da9-a4df-541dcc94496c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f96de56-d506-4d2a-b688-9e8ca5d9a496</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>278083d2-ad85-4889-87b4-bcfec7506513</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9999dcbb-f7ef-4153-9eeb-abdfd3c83ee5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SA'</defaultValue>
+      <description></description>
+      <id>3f96de56-d506-4d2a-b688-9e8ca5d9a496</id>
+      <masked>false</masked>
+      <name>countryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Riyadh'</defaultValue>
+      <description></description>
+      <id>278083d2-ad85-4889-87b4-bcfec7506513</id>
+      <masked>false</masked>
+      <name>Capital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Riyals'</defaultValue>
+      <description></description>
+      <id>9999dcbb-f7ef-4153-9eeb-abdfd3c83ee5</id>
+      <masked>false</masked>
+      <name>Currency1</name>
+   </variable>
+</TestCaseEntity>
